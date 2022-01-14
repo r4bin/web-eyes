@@ -1,13 +1,13 @@
 # WEB-EYES V1.0
 
 <p align="center" width="100%">
-    <img width="45%" src="https://github.com/r4bin/web-eyes/blob/main/assest/head.png">
+    <img width="45%" src="https://github.com/r4bin/web-eyes/blob/master/assest/head.png">
 </p>
 
 <h1 align="center">web-eyes: OSINT tools for website research, 14 research methods are available:</h1>
 
 <p align="center" width="100%">
-    <img width="45%" src="https://github.com/r4bin/web-eyes/blob/main/assest/methods.png">
+    <img width="45%" src="https://github.com/r4bin/web-eyes/blob/master/assest/head.png">
 </p>
 
  1) HINFO: HTTP HEADERS SCANNER
@@ -26,7 +26,7 @@
  14) UDPSCAN: UDP PORTS SCANNER
 
 <p align="center" width="100%">
-    <img width="65%" src="https://github.com/r4bin/web-eyes/blob/main/assest/usage.png">
+    <img width="65%" src="https://github.com/r4bin/web-eyes/blob/master/assest/head.png">
 </p>
 
  1) HINFO: HINFO [URL] => HINFO [https://example.com]
