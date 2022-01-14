@@ -46,7 +46,7 @@
  13) TCPSCAN: TCPSCAN [IP] [PORT => COMMON, OWN] => TCPSCAN [1.1.1.1] [COMMON, 80]
  14) UDPSCAN: UDPSCAN [IP] [PORT => COMMON, OWN] => UDPSCAN [1.1.1.1] [COMMON, 80]
 
-### Prerequisites
+## Prerequisites
 
 ```
 apt-get install python3
@@ -58,7 +58,7 @@ pip3 install requests
 pip3 install dnspython
 ```
 
-### Install
+## Install
 
 ``` bash
 git clone https://github.com/r4bin/web-eyes.git
