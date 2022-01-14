@@ -1,3 +1,5 @@
+# WEB-EYES V1.0
+
 <p align="center" width="100%">
     <img width="30%" src="https://github.com/r4bin/web-eyes/blob/main/assest/head.png">
 </p>
@@ -43,3 +45,33 @@
  12) RDNSLOOK: RDNSLOOK [IP] => RDNSLOOK [1.1.1.1]
  13) TCPSCAN: TCPSCAN [IP] [PORT => COMMON, OWN] => TCPSCAN [1.1.1.1] [COMMON, 80]
  14) UDPSCAN: UDPSCAN [IP] [PORT => COMMON, OWN] => UDPSCAN [1.1.1.1] [COMMON, 80]
+
+### Prerequisites
+
+```
+apt-get install python3
+```
+```
+pip3 install requests
+```
+```
+pip3 install dnspython
+```
+
+### Install
+
+``` bash
+git clone https://github.com/r4bin/web-eyes.git
+cd web-eyes
+chmod +x web-eyes.py
+./web-eyes.py
+```
+or
+
+``` bash
+git clone https://github.com/r4bin/web-eyes.git
+cd web-eyes
+python3 web-eyes.py
+```
+
+
