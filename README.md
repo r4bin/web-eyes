@@ -4,9 +4,7 @@
     <img width="45%" src="https://github.com/r4bin/web-eyes/blob/main/assest/head.png">
 </p>
 
-## About:
-
-### web-eyes: OSINT tools for website research, 14 research methods are available:
+<h1 align="center">web-eyes: OSINT tools for website research, 14 research methods are available:</h1>
 
 <p align="center" width="100%">
     <img width="45%" src="https://github.com/r4bin/web-eyes/blob/main/assest/methods.png">
