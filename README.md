@@ -1,15 +1,13 @@
 # WEB-EYES V1.0
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/r4bin/web-eyes/blob/main/assest/head.png">
+    <img width="50%" src="https://github.com/r4bin/web-eyes/blob/main/assest/head.png">
 </p>
 
-<p align="center">
-    web-eyes: OSINT tools for website research, 14 research methods are available:
-</p>
+### web-eyes: OSINT tools for website research, 14 research methods are available:
 
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/r4bin/web-eyes/blob/main/assest/methods.png">
+    <img width="50%" src="https://github.com/r4bin/web-eyes/blob/main/assest/methods.png">
 </p>
 
  1) HINFO: HTTP HEADERS SCANNER
@@ -28,7 +26,7 @@
  14) UDPSCAN: UDP PORTS SCANNER
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/r4bin/web-eyes/blob/main/assest/usage.png">
+    <img width="80%" src="https://github.com/r4bin/web-eyes/blob/main/assest/usage.png">
 </p>
 
  1) HINFO: HINFO [URL] => HINFO [https://example.com]
@@ -66,7 +64,7 @@ cd web-eyes
 chmod +x web-eyes.py
 ./web-eyes.py
 ```
-or
+### or
 
 ``` bash
 git clone https://github.com/r4bin/web-eyes.git
